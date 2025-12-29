@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://salesforcetroopai.com/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://salesforcetroopai.com/services</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://salesforcetroopai.com/pricing</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://salesforcetroopai.com/about</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://salesforcetroopai.com/blog</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://salesforcetroopai.com/blog/salesforce-implementation-guide</loc><priority>0.7</priority></url>
+  <url><loc>https://salesforcetroopai.com/blog/agentforce</loc><priority>0.7</priority></url>
+  <url><loc>https://salesforcetroopai.com/blog/salesforce-roi-first-year</loc><priority>0.7</priority></url>
+  <url><loc>https://salesforcetroopai.com/faq</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://salesforcetroopai.com/contact</loc><priority>1.0</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://salesforcetroopai.com/privacy</loc><priority>0.3</priority></url>
+  <url><loc>https://salesforcetroopai.com/terms</loc><priority>0.3</priority></url>
+</urlset>
