@@ -10,7 +10,6 @@ import {
   Share2, 
   Linkedin, 
   Twitter, 
-  Facebook,
   ChevronRight,
   Bookmark,
   MessageSquare

@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from 'react'
 import { useSearchParams } from 'next/navigation'
-import type { Metadata } from 'next'
 import { 
   Send, 
   Mail, 
